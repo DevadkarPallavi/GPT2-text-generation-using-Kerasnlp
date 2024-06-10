@@ -1,2 +1,16 @@
+# About Me
+
+Hi, I'm Pallavi Devadkar, a software developer passionate about building innovative solutions.
+
+# Background
+
+I am pursuing my B.tech Degree in computer science and Engineering .
+
+## Skills
+
+- Proficient in c, cpp, and Java
+- Experience with web development such as frontend and backend technologies.
+
+
 # GPT2-text-generation-using-Kerasnlp
 This project involves building a text generation model using GPT-2 architecture with the KerasNLP library. The aim is to implement, train, and fine-tune the model to generate coherent and contextually relevant text based on input prompts. this project involves building a text generation model.
